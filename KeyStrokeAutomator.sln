@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33209.295
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyStrokeAutomator", "KeyStrokeAutomator.csproj", "{B5F6FB0D-06BD-4676-B141-9E7B03A5D2BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5F6FB0D-06BD-4676-B141-9E7B03A5D2BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5F6FB0D-06BD-4676-B141-9E7B03A5D2BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5F6FB0D-06BD-4676-B141-9E7B03A5D2BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5F6FB0D-06BD-4676-B141-9E7B03A5D2BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {912111BA-66DD-41A8-A938-C2794F5F0F7C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-16"?>
+<EntryCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entries>
+    <Entry>
+      <Id>0</Id>
+      <EntryType>SendInput</EntryType>
+      <Content>
+        <string>abc@gmail.com</string>
+        <string>{TAB}</string>
+        <string>Password</string>
+        <string>{ENTER}</string>
+      </Content>
+      <IsPinned>true</IsPinned>
+      <IsVisible>true</IsVisible>
+      <DisplayName>Default</DisplayName>
+    </Entry>
+    <Entry>
+      <Id>1</Id>
+      <EntryType>SendInput</EntryType>
+      <Content>
+        <string>abc@gmail.com</string>
+        <string>{TAB}</string>
+        <string>Password</string>
+      </Content>
+      <IsPinned>false</IsPinned>
+      <IsVisible>true</IsVisible>
+      <DisplayName>Login FB</DisplayName>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <EntryType>SendInput</EntryType>
+      <Content>
+        <string>abc@gmail.com</string>
+        <string>{TAB}</string>
+        <string>Password</string>
+      </Content>
+      <IsPinned>false</IsPinned>
+      <IsVisible>true</IsVisible>
+      <DisplayName>Login Gmail</DisplayName>
+    </Entry>
+	<Entry>
+      <Id>3</Id>
+      <EntryType>RunCommand</EntryType>
+      <Content>
+        <string>abc@gmail.com</string>
+        <string>{TAB}</string>
+        <string>Password</string>
+      </Content>
+      <IsPinned>false</IsPinned>
+      <IsVisible>true</IsVisible>
+      <DisplayName>Login Gmail</DisplayName>
+    </Entry>
+  </Entries>
+</EntryCollection>
